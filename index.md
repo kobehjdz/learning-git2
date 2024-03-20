@@ -5,4 +5,7 @@
 ##### This is Heading 5
 ###### This is Heading 6
 this is general content
+``` javascript
+var myVar = "Hello, world!";
+```
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
